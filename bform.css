@@ -1,0 +1,25 @@
+body{
+  border: 1px solid black;
+  width: 900px;
+  margin-left: 5%;
+}
+
+input{
+  border: none;
+  border-bottom: 1px solid rgb(168, 69, 69);
+  width: 300px;
+}
+.naanu{color: crimson;
+  margin-left: 20%;
+
+}
+h1{
+   text-decoration: underline black;
+   
+}
+.kb{
+  margin-left: 2%;
+}
+div:hover{
+  color: rgb(55, 0, 255);
+}
